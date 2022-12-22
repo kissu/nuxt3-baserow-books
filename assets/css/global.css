@@ -1,0 +1,6 @@
+* {
+  box-sizing: border-box;
+}
+html {
+  @apply bg-slate-700;
+}
